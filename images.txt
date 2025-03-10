@@ -5,3 +5,5 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 mysql:8.0.37
+elasticsearch:7.17.19
+logstash:8.0.0
