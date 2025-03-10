@@ -7,3 +7,4 @@
 mysql:8.0.37
 elasticsearch:7.17.19
 logstash:8.0.0
+docker.elastic.co/kibana/kibana:7.15.2
