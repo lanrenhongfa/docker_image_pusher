@@ -8,3 +8,4 @@ mysql:8.0.37
 elasticsearch:7.17.19
 logstash:8.0.0
 docker.elastic.co/kibana/kibana:7.15.2
+minio/minio:RELEASE.2025-02-28T09-55-16Z
