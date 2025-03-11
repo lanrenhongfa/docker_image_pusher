@@ -9,3 +9,7 @@ elasticsearch:7.17.19
 logstash:8.0.0
 docker.elastic.co/kibana/kibana:7.15.2
 minio/minio:RELEASE.2025-02-28T09-55-16Z
+docker.io/library/caddy:2-alpine
+docker.io/valkey/valkey:8-alpine
+docker.io/searxng/searxng:latest
+
