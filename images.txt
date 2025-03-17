@@ -12,4 +12,4 @@ minio/minio:RELEASE.2025-02-28T09-55-16Z
 docker.io/library/caddy:2-alpine
 docker.io/valkey/valkey:8-alpine
 docker.io/searxng/searxng:latest
-
+openresty/openresty:alpine-fat
