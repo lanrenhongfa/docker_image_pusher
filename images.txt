@@ -20,5 +20,5 @@ swr.cn-east-2.myhuaweicloud.com/kuboard-dependency/promtail:2.7.1
 redis:7.2.7
 apache/kafka:3.9.0
 apache/rocketmq:4.9.7
- grafana/grafana:9.3.11
+grafana/grafana:9.3.11
 
