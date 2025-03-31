@@ -23,4 +23,5 @@ apache/kafka:3.9.0
 apache/rocketmq:4.9.7
 grafana/grafana:9.3.11
 bitnami/kafka:3.9.0
-
+elasticsearch:8.17.2
+docker.elastic.co/kibana/kibana:8.17.2
