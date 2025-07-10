@@ -27,7 +27,10 @@ bitnami/kafka:3.9.0
 #docker.elastic.co/kibana/kibana:8.17.2
 #keking/kkfileview:4.1.0
 #--platform=linux/arm64 mysql:8.0.37
---platform=linux/arm64 bitnami/etcd:3.6.1
---platform=linux/arm64 apache/kafka:3.9.0
---platform=linux/arm64  redis:7.2.7
---platform=linux/arm64  openresty/openresty:1.25.3.2-alpine-fat
+#--platform=linux/arm64 bitnami/etcd:3.6.1
+#--platform=linux/arm64 apache/kafka:3.9.0
+#--platform=linux/arm64  redis:7.2.7
+#--platform=linux/arm64  openresty/openresty:1.25.3.2-alpine-fat
+--platform=linux/arm64 elasticsearch:7.17.19
+--platform=linux/arm64 logstash:8.0.0
+--platform=linux/arm64  kibana:7.17.19
