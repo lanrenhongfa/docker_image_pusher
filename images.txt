@@ -34,4 +34,4 @@ bitnami/kafka:3.9.0
 #--platform=linux/arm64 elasticsearch:7.17.19
 #--platform=linux/arm64 logstash:8.0.0
 #--platform=linux/arm64  kibana:7.17.19
-etcd:latest
+bitnami/etcd:3.5.11
