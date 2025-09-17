@@ -35,4 +35,5 @@ bitnami/kafka:3.9.0
 #--platform=linux/arm64 logstash:8.0.0
 #--platform=linux/arm64  kibana:7.17.19
 #bitnami/etcd:3.5.11
-semitechnologies/weaviate:1.19.7
+#semitechnologies/weaviate:1.19.7
+--platform=linux/arm64 jupyter/datascience-notebook:hub-4.0.2
