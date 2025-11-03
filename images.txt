@@ -48,6 +48,6 @@
 #--platform=linux/arm64 golang:1.16.0
 #--platform=linux/arm64 docker.io/library/docker:20.10.14-dind
 #--platform=linux/arm64 mysql:8.0.37
-nacos/nacos-server:v2.5.1
-
+#nacos/nacos-server:v2.5.1
+--platform=linux/arm64 docker.io/bats/bats:v1.4.1
 
