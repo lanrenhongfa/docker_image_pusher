@@ -53,5 +53,6 @@
 #--platform=linux/arm64 docker.io/grafana/grafana:11.1.4
 #--platform=linux/arm64 registry.k8s.io/ingress-nginx/kube-webhook-certgen:v20221220-controller-v1.5.1-58-g787ea74b6
 #--platform=linux/arm64 registry.k8s.io/kube-state-metrics/kube-state-metrics:v2.13.0
-mongo:7.0
+#mongo:7.0
+mongo-express:latest
 
