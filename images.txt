@@ -55,5 +55,6 @@
 #--platform=linux/arm64 registry.k8s.io/kube-state-metrics/kube-state-metrics:v2.13.0
 #mongo:7.0
 #mongo-express:latest
---platform=linux/arm64 openeuler/dnsmasq:latest
+#--platform=linux/arm64 openeuler/dnsmasq:latest
+--platform=linux/arm64 angelnu/keepalived:2.0.20-arm64
 
