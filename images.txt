@@ -56,5 +56,4 @@
 #mongo:7.0
 #mongo-express:latest
 #--platform=linux/arm64 openeuler/dnsmasq:latest
---platform=linux/arm64 angelnu/keepalived:2.0.20-arm64
-
+--platform=linux/arm64 angelnu/keepalived:latest
