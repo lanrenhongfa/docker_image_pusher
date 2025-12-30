@@ -58,4 +58,5 @@
 #--platform=linux/arm64 openeuler/dnsmasq:latest
 #--platform=linux/arm64 angelnu/keepalived:latest
 #--platform=linux/arm64  eipwork/kuboard:v4
-eipwork/kuboard:v4
+#eipwork/kuboard:v4
+redis:7.2.12
