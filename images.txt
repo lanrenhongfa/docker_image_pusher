@@ -62,4 +62,5 @@
 #redis:7.2.12
 #nacos/nacos-server:v2.1.1
 #nacos/nacos-server:v2.1.1
-dockurr/dnsmasq:2.91
+#dockurr/dnsmasq:2.91
+jpillora/dnsmasq:1.1
