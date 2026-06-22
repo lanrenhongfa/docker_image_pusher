@@ -68,4 +68,5 @@
 #--platform=linux/arm64  haproxy:3.2
 #--platform linux/arm64 haproxy:3.0-alpine3.23
 #--platform linux/arm64 redis:7.2
-datenlord/xline:v0.5.1
+#datenlord/xline:v0.5.1
+ghcr.io/xline-kv/xline
