@@ -69,4 +69,6 @@
 #--platform linux/arm64 haproxy:3.0-alpine3.23
 #--platform linux/arm64 redis:7.2
 #datenlord/xline:v0.5.1
-ghcr.io/xline-kv/xline
+#ghcr.io/xline-kv/xline
+--platform=linux/arm64 registry.cn-hangzhou.aliyuncs.com/log-service/alibabacloud-log-controller:0.3.2.0-f745c31-aliyun
+--platform=linux/arm64 registry.cn-hangzhou.aliyuncs.com/log-service/logtail:v1.1.1.0-ca91de7-aliyun
