@@ -74,4 +74,5 @@
 #--platform=linux/arm64 registry.cn-hangzhou.aliyuncs.com/log-service/logtail:v1.1.1.0-ca91de7-aliyun
 #apacherocketmq/rocketmq-dashboard:2.1.0
 #quay.io/prometheuscommunity/elasticsearch-exporter:v1.11.0
-tzfun/etcd-workbench:latest
+#tzfun/etcd-workbench:latest
+openresty/openresty:1.31.8.1-0-alpine-fat
